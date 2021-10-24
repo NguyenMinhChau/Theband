@@ -1,0 +1,19 @@
+/* 
+PC: >= 1024px (64em)
+Tablet: >= 740px & < 1024px (>= 46.25em & < 63.9375em)
+Mobile: < 740px (< 46.25em)
+ */
+
+@media (min-width: 64em) {
+    
+}
+
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    
+}
+
+@media (max-width: 46.25em) {
+    #nav .subnav li{
+        display: block;
+    }
+}

@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family:;
+}
+
+#main{
+
+}
+
+#header{
+    height: 46px;
+    background-color: #000;
+}
+#nav{
+
+}
+
+#nav li{
+    display: inline-block;
+}
+
+#nav li a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+    text-transform: uppercase;
+}
+
+#nav .subnav{
+    display: none;
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
